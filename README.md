@@ -1,4 +1,4 @@
-# 💫 About Me:
+<h1 align="center">Hi 👋, I'm Ines BESROUR</h1>
 🎓 **Software Engineering Student @ INSAT**  <br>🏆 **DAAD KOSPIE Scholar | ML Researcher at Technische Universität Dresden - TUD**<br><br>- 🔭 I’m currently working on AI: LLMs, RAG, NLP, Computer Vision, Deep Learning.<br>- 🌱 I’m currently learning Knowledge Graph, Multimodal LLM, and MLOps.<br>- 👯 I’m looking to collaborate on AI & Data Engineering | 💻 System Reliability & Software Developement  <br>- 🤔 I’m looking for help with Cloud Computing.<br>- 💬 Ask me about SRE, ML, Data.<br>- 📫 How to reach me: www.linkedin.com/in/ines-besrour
 
 
@@ -10,7 +10,6 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=ines-besrour&theme=dark&hide_border=true&include_all_commits=true&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=ines-besrour&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ines-besrour&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=ines-besrour&theme=radical&no-frame=false&no-bg=true&margin-w=4)
