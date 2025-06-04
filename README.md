@@ -3,7 +3,7 @@
 ### 🎓 Software Engineering Student @ INSAT  
 ### 🏆 DAAD KOSPIE Scholar | ML Researcher at Technische Universität Dresden - TUD
 
-<br>- 🔭 I’m currently working on AI: LLMs, HPC, RAG, NLP, Computer Vision, Deep Learning.<br>- 🌱 I’m currently learning Knowledge Graph, Multimodal LLM, and MLOps.<br>- 👯 I’m looking to collaborate on AI & Data Engineering, 💻 System Reliability & Software Developement  <br>- 🤔 I’m looking for help with ☁️ Cloud Computing.<br>- 💬 Ask me about SRE, ML, Data.
+<br>- 🔭 I’m currently working on AI: LLMs, HPC, RAG, NLP, Computer Vision, Deep Learning.<br>- 🌱 I’m currently learning Knowledge Graph, Multimodal LLM, and MLOps.<br>- 👯 I’m looking to collaborate on AI & Data Engineering, 💻 System Reliability & Software Developement.<br>- 💬 Ask me about SRE, ML, Data.
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ines-besrour-697574216/)   [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ines.besrour@insat.ucar.tn) 
 
