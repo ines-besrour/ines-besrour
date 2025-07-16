@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ines BESROUR</h1>
 
 ### 🎓 Software Engineering Student @ INSAT  
-### 🏆 DAAD KOSPIE Scholar | ML Researcher at Technische Universität Dresden - TUD
+### 🏆 ML Researcher at Technische Universität Dresden - TUD
 
 <br>- 🔭 I’m currently working on AI: LLMs, HPC, RAG, NLP, Computer Vision, Deep Learning.<br>- 🌱 I’m currently learning Knowledge Graph, Multimodal LLM, and MLOps.<br>- 👯 I’m looking to collaborate on AI & Data Engineering, 💻 System Reliability & Software Developement.<br>- 💬 Ask me about SRE, ML, Data.
 ## 🌐 Socials:
